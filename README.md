@@ -1,44 +1,94 @@
-<p align="center"><a href="https://donniehartman.com"><img width="80%" alt="Hello, I'm Donnie, a tech development enthusiast!" src="./assets/gh-readme-header.png" /></a></p>
+# Donnie Hartman
 
-<div align="center">
+**Systems & Embedded Software Engineer**  
+Working at the software–hardware boundary across real-time, embedded, and FPGA/SoC systems.
 
-[![GitHub](./assets/github.svg)](https://github.com/dhart83)
-[![LinkedIn](./assets/linkedin.svg)](https://linkedin.com/in/donniehartman)
-[![Website](./assets/portfolio.svg)](https://donniehartman.com)
+---
 
-</div>
+## About
 
-<br/>
+I work on low-level, hardware-integrated systems where correctness, timing, and observability matter. My background spans FPGA development, embedded firmware, and systems-level software, with experience contributing to reliability-critical and regulated programs.
 
-## About Me
+Professionally, I’ve supported and contributed to FPGA-based data transport systems, safety-critical avionics platforms, and verification infrastructure as part of cross-disciplinary engineering teams. My work has included RTL development, timing and CDC analysis, UVM-based verification, and Python-driven automation.
 
-👋 Hey there! I'm Donnie, a passionate programmer who enjoys building dynamic web applications using JavaScript, React, and Node.js. I'm also experienced in FPGA design, C/C++, and Python. I love exploring new technologies, solving coding challenges, and continuously expanding my knowledge. Let's connect and create something awesome together! 💻✨
+I’m particularly interested in systems that behave deterministically under real-world constraints and in understanding how software, firmware, and hardware interact at their boundaries.
 
-<br/>
+---
 
-## Technologies & Skills
+## Focus Areas
 
-<code><img height="50" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" alt="Express.js" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" alt="C/C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" alt="FPGA Design" src="https://companieslogo.com/img/orig/XLNX-e61d7a44.png?t=1594300542"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+**Embedded & Systems Software**
 
-<br/>
+- C / C++, RTOS fundamentals, interrupts, concurrency
+- Bare-metal and Linux user-space development
+- Hardware–software integration and low-level debugging
 
-## Recent Projects
+**FPGA & Digital Systems**
 
-| <a href="https://github.com/dhart83/xprt-events"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhart83&repo=xprt-events" /></a> | <a href="https://github.com/dhart83/krista-walters-fl-realtor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhart83&repo=krista-walters-fl-realtor" /></a> |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: |
+- VHDL / Verilog / SystemVerilog
+- UVM-based verification
+- Timing, clocking, CDC, and streaming data paths
+- High-throughput Ethernet systems using vendor IP
 
-<br/>
+**Verification, Tooling & Automation**
 
-## My Github Stats
+- Python-based test and regression automation
+- CI/CD workflows (Jenkins, GitHub Actions)
+- Linting, CDC analysis, and design review support
+- DO-254 processes and requirements traceability
 
-| <a href="https://github.com/dhart83"><img src="https://github-readme-stats.vercel.app/api?username=dhart83&show_icons=true&include_all_commits=true&hide_border=true" alt="Donnie's github stats" /></a> | <a href="https://github.com/dhart83"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhart83&layout=compact&hide_border=true" /></a> |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+<!-- ---
+
+## Selected Work
+
+The repositories here reflect how I approach systems problems: understanding behavior, validating assumptions, and integrating across layers. Some projects are exploratory by design; others are more complete and representative.
+
+- **Custom Preemptive RTOS (ARM Cortex-M)**
+  Implemented a small preemptive scheduler, context switching, and synchronization primitives to explore real-time behavior and interrupt-driven systems.
+
+- **Self-Balancing Robot (MSP432 + Custom PCBs)**
+  Embedded control system combining firmware, custom hardware, and real-time PID control for an inverted-pendulum platform.
+
+- **32-bit MIPS CPU Core (VHDL)**
+  Modular processor core focusing on datapath design, control logic, and deterministic execution verified through simulation. -->
+
+---
+
+## Tools & Technologies
+
+**Languages:** C, C++, Python, VHDL, Verilog  
+**Embedded & Systems:** RTOS concepts, Linux (user-space), memory-mapped I/O, interrupts  
+**Verification:** UVM, QuestaSim, lint & CDC analysis  
+**Dev & Infra:** Git, GitHub, Jenkins, GitHub Actions  
+**Platforms:** ARM Cortex-M, MSP432, FPGA/SoC environments
+
+---
+
+## Links
+
+🔗 **LinkedIn:** https://linkedin.com/in/donniehartman
+
+<!-- 🌐 **Portfolio:** https://donniehartman.com   -->
+
+<!-- ## Featured Projects
+
+<div align="left">
+
+### XPRT Events
+**Event Management Platform**
+- Full-stack web application for event planning and management
+- React frontend with Node.js/Express backend
+- MongoDB database with real-time updates<br/><br/>
+
+[![View Project](https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhart83/xprt-events)
+<br/><br/>
+---
+### Krista Walters FL Realtor
+**Real Estate Website**
+- Professional real estate agent website
+- Responsive design with modern UI/UX
+- Integrated property search and contact forms<br/><br/>
+
+[![View Project](https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhart83/krista-walters-fl-realtor)
+
+</div> -->
