@@ -1,13 +1,13 @@
 # Donnie Hartman
 
-**Systems & Embedded Software Engineer**  
+**Embedded Software & Firmware Engineer**  
 Working at the software–hardware boundary across real-time, embedded, and FPGA/SoC systems.
 
 ---
 
 ## About
 
-I work on low-level, hardware-integrated systems where correctness, timing, and observability matter. My background spans FPGA development, embedded firmware, and systems-level software, with experience contributing to reliability-critical and regulated programs.
+I work on low-level, hardware-integrated systems where correctness, timing, and observability matter. My background spans embedded firmware, RTOS-based systems, FPGA development, and hardware-software integration, with experience contributing to reliability-critical and regulated programs.
 
 Professionally, I’ve supported and contributed to FPGA-based data transport systems, safety-critical avionics platforms, and verification infrastructure as part of cross-disciplinary engineering teams. My work has included RTL development, timing and CDC analysis, UVM-based verification, and Python-driven automation.
 
@@ -23,7 +23,7 @@ I’m particularly interested in systems that behave deterministically under rea
 - Bare-metal and Linux user-space development
 - Hardware–software integration and low-level debugging
 
-**FPGA & Digital Systems**
+**FPGA & Hardware Platforms**
 
 - VHDL / Verilog / SystemVerilog
 - UVM-based verification
